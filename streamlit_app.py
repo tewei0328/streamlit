@@ -1,5 +1,5 @@
 # !pip install streamlit yfinance
-!pip install yfinance
+# !pip install yfinance
 
 import streamlit as st
 import yfinance as yf
